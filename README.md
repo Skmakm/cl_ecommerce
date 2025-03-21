@@ -1,4 +1,4 @@
-# Fullstack-Ecommerce
+# cl-Ecommerce
 
 ## :moneybag: Eshop.com  :moneybag:
 
@@ -40,7 +40,7 @@ To get started follow this guide:
 In your terminal clone repo to your local machine using git clone:
 
 ```
-git clone https://github.com/kartikpavan/Fullstack-Ecommerce.git
+git clone https://github.com/kartikpavan/cl-Ecommerce.git
 ```
 
 Move to your newly cloned repo by entering the following in your terminal:
@@ -76,4 +76,4 @@ $ code .
 
 ## Software Developer
 
-- **Kartik Pavan**
+- **Skmakm**
