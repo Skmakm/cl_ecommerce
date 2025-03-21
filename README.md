@@ -40,13 +40,13 @@ To get started follow this guide:
 In your terminal clone repo to your local machine using git clone:
 
 ```
-git clone https://github.com/kartikpavan/cl-Ecommerce.git
+git clone (https://github.com/Skmakm/cl_ecommerce.git)
 ```
 
 Move to your newly cloned repo by entering the following in your terminal:
 
 ```
-$ cd Fullstack-Ecommerce && yarn or npm install
+$ cd cl-Ecommerce && yarn or npm install
 ```
 
 To Run Project:-
